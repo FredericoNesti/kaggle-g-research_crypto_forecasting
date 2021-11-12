@@ -1,1 +1,1 @@
-# kaggle-g-research_crypto_forecasting
+# Kaggle Competition: G-Research Crypto Forecasting
